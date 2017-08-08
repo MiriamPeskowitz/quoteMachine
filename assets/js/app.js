@@ -1,4 +1,4 @@
-var quoteURL = "http://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?";
+var quoteURL = "https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=?";
 $(document).ready(function(){ 
 
 	$('button').on('click', function(){
